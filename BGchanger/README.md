@@ -41,7 +41,7 @@ A simple React application that changes the background color of the page. Users 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shrawan-071/Background-Changer.git
 ```
 
 2. Navigate to the project directory:
